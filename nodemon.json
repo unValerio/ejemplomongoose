@@ -1,0 +1,7 @@
+{
+  "verbose": true,
+  "execMap": {
+  	"js": "node --harmony"
+  },
+  "ext": "js json html css"
+}
